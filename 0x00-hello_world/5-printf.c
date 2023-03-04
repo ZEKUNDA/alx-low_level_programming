@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints "with proper grammar, but the outcome is a piece or art." followed newline
- * Return: Always 0.
- *
+ * main - prints "with proper grammar, but the outcome is a piece or art,\n"
+ * Return: Always 0
  */
 int main(void)
 {
